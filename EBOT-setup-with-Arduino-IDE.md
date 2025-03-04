@@ -14,3 +14,8 @@ Link hướng dẫn: https://randomnerdtutorials.com/installing-the-esp32-board-
 - Cuối cùng chỉ cần chọn bấm nạp code là xong.
 
 ![Screenshot 2025-03-02 221332](https://github.com/user-attachments/assets/a5081c76-aee7-4449-9952-6393bb49894d)
+
+- Cuối cùng ta kết nối với Ebot để có thể điều khiển
+Desktop
+
+Mobile
